@@ -1,8 +1,5 @@
 function addNumbers(a,b)
 {
-	let a = 3
-	let b = 4
-	
 	// This is the function body. Write your code here.
 }
 
